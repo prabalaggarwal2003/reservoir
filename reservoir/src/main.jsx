@@ -20,6 +20,7 @@ import Contact from './pages/Contact.jsx'
 import Join from './pages/Join.jsx'
 import Domains from'./pages/Domains.jsx'
 
+
 const router = createBrowserRouter(
   [
     {
