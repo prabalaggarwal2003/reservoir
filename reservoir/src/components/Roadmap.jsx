@@ -23,7 +23,7 @@ export default function RoadmapCarousel() {
     
     <div className="w-full py-20 flex flex-row justify-center">
       <div className="flex flex-row justify-center items-center bg-gradient-to-br from-green-400 to-blue-600 rounded-lg p-1 w-[350px]">
-        <div className="relative w-[350px] h-[200px] h-full w-full bg-white rounded-md">
+        <div className="relative w-[350px] h-[200px] bg-white rounded-md">
           <AnimatePresence mode="wait">
             <motion.div
               key={index}

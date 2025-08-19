@@ -5,7 +5,7 @@ function Logo() {
   return (
     <>
     <Link to='/'>
-    <img src="webicon.png" alt="website logo" className='h-8' />
+    <img src="/webicon.png" alt="website logo" className='h-8' />
     </Link>
     </>
   )
