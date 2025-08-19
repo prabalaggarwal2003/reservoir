@@ -1,0 +1,48 @@
+{
+    "domain": "Open Source",
+    "resources": {
+      "youtube": [
+        {
+          "title": "How to Contribute to Open Source",
+          "url": "https://www.youtube.com/watch?v=8A4dqoGL62E",
+          "difficulty": "beginner",
+          "tags": ["opensource", "github"]
+        }
+      ],
+      "github": [
+        {
+          "title": "First Contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "stars": 40000,
+          "difficulty": "beginner",
+          "tags": ["opensource", "contribute"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "Open Source Guide Notes",
+          "url": "/resources/opensource-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "github"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "Open Source Guides",
+          "url": "https://opensource.guide/",
+          "difficulty": "all",
+          "tags": ["opensource"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "Introduction to Open Source (edX)",
+          "url": "https://www.edx.org/learn/open-source",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["opensource"]
+        }
+      ]
+    }
+  }
+  

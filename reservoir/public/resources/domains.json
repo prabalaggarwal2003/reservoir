@@ -1,0 +1,16 @@
+{
+    "domains": [
+      { "slug": "webd", "name": "Web Development", "tagline": "Build modern websites" },
+      { "slug": "appd", "name": "App Development", "tagline": "Create mobile experiences" },
+      { "slug": "blockchain", "name": "Blockchain", "tagline": "Decentralized tech" },
+      { "slug": "devops", "name": "DevOps", "tagline": "Automate & deploy faster" },
+      { "slug": "cybersec", "name": "Cyber Security", "tagline": "Protect digital assets" },
+      { "slug": "dsa", "name": "Data Structures & Algorithms", "tagline": "Crack coding interviews" },
+      { "slug": "digitalmarketing", "name": "Digital Marketing", "tagline": "Grow your brand online" },
+      { "slug": "uidesign", "name": "UI/UX Design", "tagline": "Design stunning interfaces" },
+      { "slug": "ai", "name": "Artificial Intelligence", "tagline": "Build intelligent apps" },
+      { "slug": "opensource", "name": "Open Source", "tagline": "Contribute & collaborate" },
+      { "slug": "dataanalysis", "name": "Data Analysis", "tagline": "Turn data into insights" }
+    ]
+  }
+  

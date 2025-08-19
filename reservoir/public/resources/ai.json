@@ -1,0 +1,48 @@
+{
+    "domain": "Artificial Intelligence",
+    "resources": {
+      "youtube": [
+        {
+          "title": "AI Full Course",
+          "url": "https://www.youtube.com/watch?v=JMUxmLyrhSk",
+          "difficulty": "beginner",
+          "tags": ["ai", "ml"]
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome Machine Learning",
+          "url": "https://github.com/josephmisiti/awesome-machine-learning",
+          "stars": 65000,
+          "difficulty": "all",
+          "tags": ["ml", "ai"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "AI Notes",
+          "url": "/resources/ai-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "ml"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "PyTorch Docs",
+          "url": "https://pytorch.org/docs/",
+          "difficulty": "intermediate",
+          "tags": ["pytorch", "deep-learning"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "AI for Everyone (Coursera)",
+          "url": "https://www.coursera.org/learn/ai-for-everyone",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["ai"]
+        }
+      ]
+    }
+  }
+  

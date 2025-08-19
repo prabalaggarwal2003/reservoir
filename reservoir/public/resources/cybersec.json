@@ -1,0 +1,48 @@
+{
+    "domain": "Cybersecurity",
+    "resources": {
+      "youtube": [
+        {
+          "title": "Ethical Hacking Course",
+          "url": "https://www.youtube.com/watch?v=3Kq1MIfTWCE",
+          "difficulty": "beginner",
+          "tags": ["hacking", "security"]
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome Hacking",
+          "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+          "stars": 80000,
+          "difficulty": "all",
+          "tags": ["pentesting", "security"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "Cyber Security Notes",
+          "url": "/resources/cybersec-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "OWASP Top 10",
+          "url": "https://owasp.org/www-project-top-ten/",
+          "difficulty": "all",
+          "tags": ["web-security"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "Introduction to Cyber Security (FutureLearn)",
+          "url": "https://www.futurelearn.com/courses/introduction-to-cyber-security",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["cybersecurity"]
+        }
+      ]
+    }
+  }
+  

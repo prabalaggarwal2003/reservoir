@@ -1,0 +1,54 @@
+{
+    "domain": "App Development",
+    "resources": {
+      "youtube": [
+        {
+          "title": "Flutter Crash Course",
+          "url": "https://www.youtube.com/watch?v=1gDhl4leEzA",
+          "difficulty": "beginner",
+          "tags": ["flutter", "mobile"]
+        },
+        {
+          "title": "Kotlin Android Development",
+          "url": "https://www.youtube.com/watch?v=F9UC9DY-vIU",
+          "difficulty": "intermediate",
+          "tags": ["android", "kotlin"]
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome Flutter",
+          "url": "https://github.com/Solido/awesome-flutter",
+          "stars": 52000,
+          "difficulty": "all",
+          "tags": ["flutter", "mobile"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "Android Development Notes (PDF)",
+          "url": "/resources/appd-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["android", "pdf"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "Flutter Official Docs",
+          "url": "https://docs.flutter.dev/",
+          "difficulty": "all",
+          "tags": ["flutter"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "Google Android Basics",
+          "url": "https://developer.android.com/courses",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["android", "java"]
+        }
+      ]
+    }
+  }
+  

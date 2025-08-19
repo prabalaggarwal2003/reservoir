@@ -1,0 +1,72 @@
+{
+    "domain": "Web Development",
+    "resources": {
+
+      "youtube": [
+        {
+          "title": "HTML Crash Course for Beginners",
+          "url": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+          "difficulty": "beginner",
+          "tags": ["html", "frontend"]
+        },
+        {
+          "title": "React Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+          "difficulty": "intermediate",
+          "tags": ["react", "frontend"]
+        }
+      ],
+
+      "github": [
+        {
+          "title": "Awesome Web Development Resources",
+          "url": "https://github.com/MarkoDenic/web-development-resources",
+          "stars": 5400,
+          "difficulty": "all",
+          "tags": ["frontend", "backend"]
+        },
+        {
+          "title": "Mega Blog Project",
+          "url": "https://github.com/hiteshchoudhary/appwriteblog",
+          "stars": 207,
+          "difficulty": "all",
+          "tags": ["frontend", "backend"]
+        }
+      ],
+
+      "notes": [
+        {
+          "title": "Full Stack Web Development Notes (PDF)",
+          "url": "/resources/webd-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "fullstack"]
+        }
+      ],
+
+      "docs": [
+        {
+          "title": "MDN Web Docs (Official)",
+          "url": "https://developer.mozilla.org/en-US/",
+          "difficulty": "all",
+          "tags": ["reference"]
+        },
+        {
+          "title": "React Official Docs",
+          "url": "https://react.dev/",
+          "difficulty": "intermediate",
+          "tags": ["react", "frontend"]
+        }
+      ],
+
+      "courses": [
+        {
+          "title": "FreeCodeCamp Responsive Web Design",
+          "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["frontend", "responsive"]
+        }
+      ]
+    }
+  }
+  

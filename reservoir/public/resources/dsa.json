@@ -1,0 +1,48 @@
+{
+    "domain": "Data Structures & Algorithms",
+    "resources": {
+      "youtube": [
+        {
+          "title": "DSA Full Course",
+          "url": "https://www.youtube.com/watch?v=8hly31xKli0",
+          "difficulty": "beginner",
+          "tags": ["arrays", "sorting"]
+        }
+      ],
+      "github": [
+        {
+          "title": "The Algorithms",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "stars": 180000,
+          "difficulty": "all",
+          "tags": ["python", "algorithms"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "DSA Notes PDF",
+          "url": "/resources/dsa-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "algorithms"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "GeeksforGeeks DSA",
+          "url": "https://www.geeksforgeeks.org/data-structures/",
+          "difficulty": "all",
+          "tags": ["reference"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "DSA Self Paced (GFG)",
+          "url": "https://practice.geeksforgeeks.org/courses/dsa-self-paced",
+          "certificate": true,
+          "difficulty": "intermediate",
+          "tags": ["dsa"]
+        }
+      ]
+    }
+  }
+  

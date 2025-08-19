@@ -1,0 +1,48 @@
+{
+    "domain": "Data Analysis",
+    "resources": {
+      "youtube": [
+        {
+          "title": "Data Analysis with Python",
+          "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+          "difficulty": "beginner",
+          "tags": ["python", "pandas"]
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome Data Science",
+          "url": "https://github.com/academic/awesome-datascience",
+          "stars": 22000,
+          "difficulty": "all",
+          "tags": ["data", "python"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "Data Analysis Notes",
+          "url": "/resources/data-analysis-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "data"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "Pandas Docs",
+          "url": "https://pandas.pydata.org/docs/",
+          "difficulty": "all",
+          "tags": ["python", "data"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "Google Data Analytics Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["data", "analytics"]
+        }
+      ]
+    }
+  }
+  

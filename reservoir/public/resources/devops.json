@@ -1,0 +1,48 @@
+{
+    "domain": "DevOps",
+    "resources": {
+      "youtube": [
+        {
+          "title": "DevOps Roadmap 2024",
+          "url": "https://www.youtube.com/watch?v=0yWAtQ6wYNM",
+          "difficulty": "beginner",
+          "tags": ["roadmap", "tools"]
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome DevOps",
+          "url": "https://github.com/AcalephStorage/awesome-devops",
+          "stars": 2500,
+          "difficulty": "all",
+          "tags": ["ci", "cd", "automation"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "Kubernetes & Docker Notes",
+          "url": "/resources/devops-notes.pdf",
+          "difficulty": "intermediate",
+          "tags": ["docker", "kubernetes", "pdf"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "Docker Docs",
+          "url": "https://docs.docker.com/",
+          "difficulty": "all",
+          "tags": ["docker"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "DevOps Basics (edX)",
+          "url": "https://www.edx.org/learn/devops",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["devops", "ci/cd"]
+        }
+      ]
+    }
+  }
+  

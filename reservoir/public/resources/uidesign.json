@@ -1,0 +1,48 @@
+{
+    "domain": "UI/UX Design",
+    "resources": {
+      "youtube": [
+        {
+          "title": "UI/UX Design Tutorial",
+          "url": "https://www.youtube.com/watch?v=3t6L-FlfeaI",
+          "difficulty": "beginner",
+          "tags": ["figma", "design"]
+        }
+      ],
+      "github": [
+        {
+          "title": "Awesome Design Tools",
+          "url": "https://github.com/LisaDziuba/Awesome-Design-Tools",
+          "stars": 30000,
+          "difficulty": "all",
+          "tags": ["ui", "ux"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "UI/UX Design Notes",
+          "url": "/resources/uiux-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "design"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "Material Design Guidelines",
+          "url": "https://m3.material.io/",
+          "difficulty": "all",
+          "tags": ["guidelines"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "Google UX Design Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["ui", "ux"]
+        }
+      ]
+    }
+  }
+  

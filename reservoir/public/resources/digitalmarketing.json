@@ -1,0 +1,40 @@
+{
+    "domain": "Digital Marketing",
+    "resources": {
+      "youtube": [
+        {
+          "title": "Digital Marketing Full Course",
+          "url": "https://www.youtube.com/watch?v=nU-IIXBWlS4",
+          "difficulty": "beginner",
+          "tags": ["seo", "social-media"]
+        }
+      ],
+      "github": [],
+      "notes": [
+        {
+          "title": "Digital Marketing Notes",
+          "url": "/resources/digital-marketing-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "Google Digital Garage",
+          "url": "https://learndigital.withgoogle.com/digitalgarage",
+          "difficulty": "all",
+          "tags": ["seo", "ads"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "Fundamentals of Digital Marketing (Google)",
+          "url": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+          "certificate": true,
+          "difficulty": "beginner",
+          "tags": ["marketing", "seo"]
+        }
+      ]
+    }
+  }
+  

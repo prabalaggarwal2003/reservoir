@@ -1,0 +1,48 @@
+{
+    "domain": "Blockchain",
+    "resources": {
+      "youtube": [
+        {
+          "title": "Blockchain Basics Explained",
+          "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4",
+          "difficulty": "beginner",
+          "tags": ["basics"]
+        }
+      ],
+      "github": [
+        {
+          "title": "Ethereum Whitepaper",
+          "url": "https://github.com/ethereum/wiki",
+          "stars": 8000,
+          "difficulty": "intermediate",
+          "tags": ["ethereum"]
+        }
+      ],
+      "notes": [
+        {
+          "title": "Blockchain Fundamentals Notes",
+          "url": "/resources/blockchain-notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "basics"]
+        }
+      ],
+      "docs": [
+        {
+          "title": "Solidity Docs",
+          "url": "https://docs.soliditylang.org/",
+          "difficulty": "intermediate",
+          "tags": ["solidity", "smart-contracts"]
+        }
+      ],
+      "courses": [
+        {
+          "title": "Blockchain Specialization (Coursera)",
+          "url": "https://www.coursera.org/specializations/blockchain",
+          "certificate": true,
+          "difficulty": "intermediate",
+          "tags": ["blockchain", "ethereum"]
+        }
+      ]
+    }
+  }
+  
