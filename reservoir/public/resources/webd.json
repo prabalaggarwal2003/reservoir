@@ -14,6 +14,24 @@
           "url": "https://www.youtube.com/watch?v=SqcY0GlETPk",
           "difficulty": "intermediate",
           "tags": ["react", "frontend"]
+        },
+        {
+          "title": "React Tutorial from Chai aur Code",
+          "url": "https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige",
+          "difficulty": "intermediate",
+          "tags": ["react", "frontend"]
+        },
+        {
+          "title": "Love Babbar MERN Stack course",
+          "url": "https://www.youtube.com/watch?v=Vi9bxu-M-ag&list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD",
+          "difficulty": "intermediate",
+          "tags": ["mern", "frontend", "fullstack"]
+        },
+        {
+          "title": "CodewithHarry Sigma Web Development",
+          "url": "https://www.youtube.com/watch?v=tVzUXW6siu0&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+          "difficulty": "intermediate",
+          "tags": ["react", "frontend", "mern", "fullstack"]
         }
       ],
 
@@ -26,21 +44,77 @@
           "tags": ["frontend", "backend"]
         },
         {
-          "title": "Mega Blog Project",
+          "title": "Mega Blog Project by Chai aur Code",
           "url": "https://github.com/hiteshchoudhary/appwriteblog",
           "stars": 207,
-          "difficulty": "all",
+          "difficulty": "intermediate",
+          "tags": ["frontend", "backend"]
+        },
+        {
+          "title": "Sigma Web Dev by CodewithHarry",
+          "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+          "stars": 9900,
+          "difficulty": "intermediate",
           "tags": ["frontend", "backend"]
         }
       ],
 
       "notes": [
         {
-          "title": "Full Stack Web Development Notes (PDF)",
-          "url": "/resources/webd-notes.pdf",
+          "title": "HTML handwritten notes by StudyGlance",
+          "url": "https://studyglance.in/lecturenotes/data/HTML%28WT%29%20Lecture%20Notes.pdf",
           "difficulty": "beginner",
-          "tags": ["pdf", "fullstack"]
+          "tags": ["pdf", "html"]
+        },
+        {
+          "title": "HTML handwritten notes by Scribd",
+          "url": "https://www.scribd.com/document/677569851/1-HTML-Handwritten-Notes",
+          "difficulty": "beginner",
+          "tags": ["pdf", "html"]
+        },
+        {
+          "title": "HTML handwritten notes by CodewithHarry",
+          "url": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/HTML_Complete_Notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "html"]
+        },
+        {
+          "title": "CSS handwritten notes by CodewithHarry",
+          "url": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/CSS_Complete_Notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "css"]
+        },
+        {
+          "title": "CSS handwritten notes by Scribd",
+          "url": "https://www.scribd.com/document/783783529/CSS-Handwritten-Notes",
+          "difficulty": "beginner",
+          "tags": ["pdf", "css"]
+        },
+        {
+          "title": "CSS handwritten notes by Slideshare",
+          "url": "https://www.slideshare.net/slideshow/css-notespdf-259708104/259708104",
+          "difficulty": "beginner",
+          "tags": ["pdf", "css"]
+        },
+        {
+          "title": "JS handwritten notes by StudyGlance",
+          "url": "https://studyglance.in/lecturenotes/display.php?tno=2&subject=Web%20Technologies&title=JavaScript%20Lecture%20Notes",
+          "difficulty": "beginner",
+          "tags": ["pdf", "js"]
+        },
+        {
+          "title": "JS handwritten notes by CodewithHarry",
+          "url": "https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/JS_Chapterwise_Notes.pdf",
+          "difficulty": "beginner",
+          "tags": ["pdf", "js"]
+        },
+        {
+          "title": "JS handwritten notes by Topperworld",
+          "url": "https://topperworld.in/javascript-handwritten-notes/",
+          "difficulty": "beginner",
+          "tags": ["pdf", "js"]
         }
+
       ],
 
       "docs": [
@@ -55,6 +129,66 @@
           "url": "https://react.dev/",
           "difficulty": "intermediate",
           "tags": ["react", "frontend"]
+        },
+        {
+          "title": "HTML Documentation by w3schools",
+          "url": "https://www.w3schools.com/html/default.asp",
+          "difficulty": "beginner",
+          "tags": ["w3", "html"]
+        },
+        {
+          "title": "CSS Documentation by w3schools",
+          "url": "https://www.w3schools.com/css/default.asp",
+          "difficulty": "beginner",
+          "tags": ["w3", "css"]
+        },
+        {
+          "title": "JS Documentation by w3schools",
+          "url": "https://www.w3schools.com/js/default.asp",
+          "difficulty": "beginner",
+          "tags": ["w3", "js"]
+        },
+        {
+          "title": "React Documentation by w3schools",
+          "url": "https://www.w3schools.com/react/default.asp",
+          "difficulty": "beginner",
+          "tags": ["w3", "react"]
+        },
+        {
+          "title": "Typescript Documentation by w3schools",
+          "url": "https://www.w3schools.com/typescript/index.php",
+          "difficulty": "advanced",
+          "tags": ["w3", "typescript"]
+        },
+        {
+          "title": "Angular Documentation by w3schools",
+          "url": "https://www.w3schools.com/angular/default.asp",
+          "difficulty": "beginner",
+          "tags": ["w3", "angular"]
+        },
+        {
+          "title": "PostgreSQL Documentation by w3schools",
+          "url": "https://www.w3schools.com/postgresql/index.php",
+          "difficulty": "intermediate",
+          "tags": ["w3", "postgresql"]
+        },
+        {
+          "title": "MongoDB Documentation by w3schools",
+          "url": "https://www.w3schools.com/mongodb/index.php",
+          "difficulty": "intermediate",
+          "tags": ["w3", "mongodb"]
+        },
+        {
+          "title": "Sass Documentation by w3schools",
+          "url": "https://www.w3schools.com/sass/default.asp",
+          "difficulty": "intermediate",
+          "tags": ["w3", "css"]
+        },
+        {
+          "title": "Vue Documentation by w3schools",
+          "url": "https://www.w3schools.com/vue/index.php",
+          "difficulty": "beginner",
+          "tags": ["w3", "vue"]
         }
       ],
 
